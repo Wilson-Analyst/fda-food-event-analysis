@@ -34,7 +34,7 @@ The focus is on understanding **adverse events reported from food, beverages, an
 
 ## 📊 Key Visuals & Insights
 
-<img src="powerBI/screenshots/p1.PNG" width="700" alt="Dashboard Overview" />
+<img src="powerBI/screenshots/p1.PNG" width="600" alt="Dashboard Overview" />
 
 - Dashboard includes trend charts for serious outcomes over time.
 - Bar charts and slicers to explore adverse reactions.
